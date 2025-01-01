@@ -11,7 +11,7 @@ A Tampermonkey userscript to hide Elo ratings across various chess websites. Thi
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) on your browser.
-2. Click [here](#https://raw.githubusercontent.com/squashyweeb/chess.com-elo-hider/refs/heads/main/main.js) to install the script directly 
+2. Click [[here](https://raw.githubusercontent.com/squashyweeb/chess.com-elo-hider/refs/heads/main/main.js)](#) to install the script directly 
 3. Enjoy chess without Elo ratings!
 
 ## Supported Platforms
